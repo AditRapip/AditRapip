@@ -19,82 +19,14 @@ My work usually covers the whole cycle: translating credit and admission policie
 
 ## What I've shipped
 
-<table>
-  <thead>
-    <tr><th align="left">Product / platform</th><th align="left">What I did</th><th align="left">Result</th></tr>
-  </thead>
-  <tbody>
-    <tr><td colspan="3"><b>Public sector</b> · Product Consultant for a provincial education agency in Indonesia · 2026</td></tr>
-    <tr>
-      <td><b>Province-wide school admission platform</b></td>
-      <td>Managed product delivery: PRDs, specs and change requests for ranking, seat quotas, seat redistribution and re-registration</td>
-      <td><b>900K+</b> applicants</td>
-    </tr>
-    <tr>
-      <td><b>Flagship-school admission platform</b><br><sub>41 schools, 159 endpoints, 54 data tables</sub></td>
-      <td>Same delivery scope. Also produced the official proposal, technical specification and testing reports for both platforms</td>
-      <td><b>~39K</b> applicants</td>
-    </tr>
-    <tr><td colspan="3"><b>eFishery · Kabayan B2C lending</b> (BNPL for fish farmers) · 2019 – 2022</td></tr>
-    <tr>
-      <td><b>FeedFund DB &amp; FeedHub</b></td>
-      <td>Took them from MVP at the first branch to a production system</td>
-      <td><b>10K+</b> customers · <b>IDR 50B</b> revenue</td>
-    </tr>
-    <tr>
-      <td><b>Loan Origination System (LOS)</b></td>
-      <td>Rolled out an early-stage LOS for the credit process</td>
-      <td>Credit SLA <b>55 → 22 days</b></td>
-    </tr>
-    <tr>
-      <td><b>P2P &amp; banking partner integrations</b></td>
-      <td>Released API integrations and automation with lending partners</td>
-      <td><b>+IDR 180B</b> loan book</td>
-    </tr>
-    <tr>
-      <td><b>Funder approval flow</b></td>
-      <td>Streamlined the handoff between the partnership and credit analyst teams</td>
-      <td>Approval <b>9.1 → 2.4 days</b></td>
-    </tr>
-    <tr>
-      <td><b>Nubitools</b> (credit scoring)</td>
-      <td>Revamped the scoring algorithm used by credit analysts</td>
-      <td><b>+35%</b> accuracy</td>
-    </tr>
-    <tr><td colspan="3"><b>eFishery · Kabayan B2B financing</b> (farmer groups, feed agents, shrimp distributors) · 2022 – 2025</td></tr>
-    <tr>
-      <td><b>In-app KYC &amp; LOS Commercial</b></td>
-      <td>Launched them as one integrated flow for the credit analyst team</td>
-      <td>Tools in the process <b>10 → 5</b></td>
-    </tr>
-    <tr>
-      <td><b>KYC, LOS &amp; transaction tools</b> (quick-hack package)</td>
-      <td>Delivered in one sprint to pilot a new fish processing &amp; distributor segment</td>
-      <td><b>IDR 500M</b> in 2 months, same team</td>
-    </tr>
-    <tr>
-      <td><b>Onboarding &amp; transaction tools</b> (shrimp financing)</td>
-      <td>Reworked the onboarding-to-transaction workflow</td>
-      <td>Over-limit orders <b>40% → 17%</b></td>
-    </tr>
-    <tr>
-      <td><b>Sales order data</b></td>
-      <td>Fixed product tagging and data structure</td>
-      <td>Unresolved orders <b>100% → 3%</b></td>
-    </tr>
-    <tr><td colspan="3"><b>eFishery India</b> · sole PM for the international branch · 2022 – 2025</td></tr>
-    <tr>
-      <td><b>Sales Diary Inter &amp; FeedHub Inter</b></td>
-      <td>Launched the transaction tools for the India branch</td>
-      <td><b>200+</b> active customers · <b>USD 1.7M</b> revenue</td>
-    </tr>
-    <tr>
-      <td><b>FFMS Inter</b> &amp; <b>Odoo</b></td>
-      <td>Rolled out financing operations management, and Odoo for accounting &amp; fulfillment, plus the branch SOPs</td>
-      <td><b>100%</b> data integrity</td>
-    </tr>
-  </tbody>
-</table>
+| Product / platform | What I did | Result |
+|:---|:---|:---|
+| **School admission platforms** (province-wide + 41 flagship schools)<br><sub>Government education agency · 2026</sub> | Managed delivery: specs for ranking, seat quotas and seat redistribution, plus official hand-over docs | **900K+** applicants |
+| **Kabayan B2C lending:** FeedFund DB & FeedHub<br><sub>eFishery · 2019 – 2022</sub> | Took the tools from MVP at the first branch to production | **10K+** customers · **IDR 50B** revenue |
+| **Loan Origination System (LOS)** & partner integrations<br><sub>eFishery · 2020 – 2022</sub> | Rolled out an early LOS and API integrations with P2P and banking partners | Credit SLA **55 → 22 days** · **+IDR 180B** loan book |
+| **Kabayan B2B financing:** KYC, LOS Commercial & transaction tools<br><sub>eFishery · 2022 – 2025</sub> | Merged the credit process into one flow and reworked onboarding | Tools **10 → 5** · over-limit orders **40% → 17%** |
+| **eFishery India:** Sales Diary Inter, FeedHub Inter & FFMS Inter<br><sub>eFishery · 2022 – 2025</sub> | Sole PM for the branch: transaction tools, operations system and SOPs | **USD 1.7M** revenue · **200+** customers |
+| **Nubitools** credit scoring<br><sub>eFishery · 2020 – 2022</sub> | Revamped the scoring algorithm used by credit analysts | **+35%** accuracy |
 
 <sub>The public-sector platform names and client are available on request.</sub>
 
