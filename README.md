@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aditia Rafif, Product Manager. I build products and keep improving them after launch." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
+  <img alt="Aditia Rafif, Product Manager. I build products and keep improving them after launch." src="assets/banner-light-v2.svg" width="100%">
 </picture>
 
 <p align="center">
