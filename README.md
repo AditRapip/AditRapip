@@ -13,9 +13,9 @@
 
 ## Hi, I'm Adit
 
-I'm a Product Manager with 6+ years of taking products from zero to one: digital lending for fish farmers at **eFishery**, then province-scale school-admission platforms for a **government education agency in Indonesia**, where the success metric was fairness, not growth.
+I'm a Product Manager with 6+ years of experience, mostly in lending products at **eFishery** and, most recently, school-admission platforms for a **government education agency in Indonesia**.
 
-I'm not an engineer and I don't pretend to be one. What I do well is **decide the rules** (who gets a loan, who gets a school seat, what makes a score fair), write them down so engineers can build from them, and then **stay until the product actually works**: rolling it out to the people who use it, watching how they really use it, and checking the metrics myself with SQL until the numbers move. Lately I also build working prototypes with an AI coding agent, so a conversation turns into something clickable in days instead of months.
+My work usually covers the whole cycle: defining the business rules (credit, ranking, quotas), writing specs with engineers, rolling the product out to its users, and following up on the metrics after launch. I do my own analysis in SQL, and lately I also build prototypes with an AI coding agent.
 
 ## What I've shipped
 
@@ -30,9 +30,9 @@ I'm not an engineer and I don't pretend to be one. What I do well is **decide th
 
 <sub>Client details for the public-sector work are available on request.</sub>
 
-## Things you can click right now
+## Prototypes
 
-I write the spec and the rules, an AI coding agent writes the code, and I test it on real cases. All three are live.
+Built with an AI coding agent: I wrote the specs and tested the results, the agent wrote the code. All three are live.
 
 <table>
   <tr>
@@ -45,13 +45,13 @@ I write the spec and the rules, an AI coding agent writes the code, and I test i
     <td width="33%" valign="top">
       <a href="https://aditrapip.github.io/trial-store-management/"><img src="assets/shot-warehouse.png" alt="Spare-parts warehouse prototype"></a>
       <h4><a href="https://aditrapip.github.io/trial-store-management/">Spare-parts warehouse</a></h4>
-      <p>Search a part by code and see its exact rack on a 3D map. Every move is logged, so parts stop disappearing. Staff, warehouse head and admin each see different actions.</p>
+      <p>Search a part by code and see its exact rack on a 3D map. Every move is logged, so moved parts can be traced. Staff, warehouse head and admin each see different actions.</p>
       <p><sub>Prototype · sample data · Indonesian UI</sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://aditrapip.github.io/miltape-konsep/"><img src="assets/shot-distributor.png" alt="Distributor operations prototype"></a>
       <h4><a href="https://aditrapip.github.io/miltape-konsep/">Distributor operations</a></h4>
-      <p>One system for a distributor with three warehouses: sales order, approval, dispatch with photo proof, invoice, and an owner view that needs no manual recap.</p>
+      <p>One system for a distributor with three warehouses: sales order, approval, dispatch with photo proof, invoice, and an owner summary.</p>
       <p><sub>Prototype · sample data · Indonesian UI</sub></p>
     </td>
   </tr>
@@ -59,18 +59,18 @@ I write the spec and the rules, an AI coding agent writes the code, and I test i
 
 ## What I'm working on now
 
-- **Tulen**, a three-person product, systems and AI team. We help growing Indonesian businesses digitise the part of their operations that hurts most: manual records, invisible stock, orders buried in WhatsApp. We start from the mess, not from the fanciest tech.
-- **Live prototyping with my team**: turning a client conversation into a working browser prototype during the same meeting, then exporting the PRD from the same product state.
-- **Looking for my next Product Manager role** in fintech, govtech or B2B operations.
+- **Tulen**, a small product, systems and AI team (three of us) that helps Indonesian SMEs digitise their operations, such as stock, orders and manual records.
+- **A live-prototyping workflow** with my team, where a client's requirements become a clickable browser prototype during the meeting.
+- **Open to Product Manager roles** in fintech, govtech or B2B operations.
 
 ## How I work
 
-- **Decide before building.** Every build starts with written rules and a log of the options I rejected, so nobody has to guess later why it works the way it does.
-- **Shipping is half the job.** A release only counts once people use it well. I rolled out new tools to credit analysts, branch coordinators and finance teams, set up the SOPs that kept them running, and joined field research to check whether the tools were actually usable.
-- **Measure, find the cause, fix it.** Unresolved sales orders went from 100% to 3% after I fixed product tagging and the data structure behind them. Over-limit orders in shrimp financing fell from 40% to 17% after reworking the onboarding and transaction workflow.
-- **A formula over an opinion.** If a score decides something important, it should be explainable line by line.
-- **Check the data, not the dashboard.** On high-stakes public data I ran proactive integrity audits straight from the database.
-- **Small teams, real constraints.** I was the only PM assigned to eFishery India, digitising manual processes with very little engineering and design capacity. SOPs and boring tools are often the right answer.
+- **Written rules and decisions.** Before building, I write down the rules and the options we rejected, so the reasoning is easy to trace later.
+- **Rollout and adoption.** I've rolled out tools to credit analysts, branch coordinators and finance teams, written SOPs, and joined field research to check usability.
+- **Following up on metrics.** For example, unresolved sales orders dropped from 100% to 3% after fixing product tagging and data structure, and over-limit orders from 40% to 17% after reworking the onboarding and transaction workflow.
+- **Explainable scoring.** When a score drives a decision, I prefer a formula that can be explained line by line.
+- **Data integrity.** On public admission data, I ran proactive integrity audits directly on the database.
+- **Limited resources.** I was the only PM assigned to eFishery India, with limited engineering and design support.
 
 ## Toolbox
 
@@ -106,4 +106,4 @@ I write the spec and the rules, an AI coding agent writes the code, and I test i
 
 ---
 
-<p align="center"><sub>Want the full walkthrough? I'm happy to show the job-pipeline code, the plan and the live bot on a call.<br>The fastest way to reach me is a LinkedIn message or an email.</sub></p>
+<p align="center"><sub>I can walk through the job-pipeline code and plan on a call. Reach me via LinkedIn or email.</sub></p>
