@@ -1,14 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v2.svg">
-  <img alt="Aditia Rafif, Product Manager. I build products and keep improving them after launch." src="assets/banner-light-v2.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-v3.svg">
+  <img alt="Aditia Rafif, Product Manager in Bandung, Indonesia. Building products, and staying with them after launch." src="assets/banner-light-v3.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditia-rafif"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aditia--rafif-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aditiarafifkh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aditiarafifkh%40gmail.com-b5432a?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://aditrapip.github.io/built-with-ai/"><img alt="Case study" src="https://img.shields.io/badge/Case_study-Built_with_AI-1c1b18?style=flat-square&logo=githubpages&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Bandung,_ID-GMT%2B7-5f5a50?style=flat-square">
-  <img alt="Open to work" src="https://img.shields.io/badge/Open_to-PM_roles-2e7d32?style=flat-square">
+  <a href="https://www.linkedin.com/in/aditia-rafif">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:aditiarafifkh@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://aditrapip.github.io/built-with-ai/">Case study</a>
 </p>
 
 ## Hi, I'm Adit
