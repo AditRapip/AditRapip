@@ -46,9 +46,9 @@
   <g class="sans">
     <!-- build -->
     <circle class="node" cx="110" cy="324" r="9" stroke-width="2"/>
-    <text x="110" y="300" class="ink" text-anchor="middle" font-size="16" font-weight="600">Rule</text>
-    <text x="110" y="354" class="muted" text-anchor="middle" font-size="13">who gets a loan,</text>
-    <text x="110" y="371" class="muted" text-anchor="middle" font-size="13">who gets a seat</text>
+    <text x="110" y="300" class="ink" text-anchor="middle" font-size="16" font-weight="600">Translate</text>
+    <text x="110" y="354" class="muted" text-anchor="middle" font-size="13">credit &amp; admission policy</text>
+    <text x="110" y="371" class="muted" text-anchor="middle" font-size="13">into product logic</text>
 
     <circle class="node" cx="306" cy="324" r="9" stroke-width="2"/>
     <text x="306" y="300" class="ink" text-anchor="middle" font-size="16" font-weight="600">Spec</text>

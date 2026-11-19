@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aditia Rafif, Product Manager. I decide the rules, then I ship them." src="assets/banner-light.svg" width="100%">
+  <img alt="Aditia Rafif, Product Manager. I build products and keep improving them after launch." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 I'm a Product Manager with 6+ years of experience, mostly in lending products at **eFishery** and, most recently, school-admission platforms for a **government education agency in Indonesia**.
 
-My work usually covers the whole cycle: defining the business rules (credit, ranking, quotas), writing specs with engineers, rolling the product out to its users, and following up on the metrics after launch. I do my own analysis in SQL, and lately I also build prototypes with an AI coding agent.
+My work usually covers the whole cycle: translating credit and admission policies into product logic and tools, writing specs with engineers, rolling the product out to its users, and following up on the metrics after launch. I do my own analysis in SQL, and lately I also build prototypes with an AI coding agent.
 
 ## What I've shipped
 
@@ -65,7 +65,7 @@ Built with an AI coding agent: I wrote the specs and tested the results, the age
 
 ## How I work
 
-- **Written rules and decisions.** Before building, I write down the rules and the options we rejected, so the reasoning is easy to trace later.
+- **Written decisions.** Before building, I write down the product decisions and the options we rejected, so the reasoning is easy to trace later.
 - **Rollout and adoption.** I've rolled out tools to credit analysts, branch coordinators and finance teams, written SOPs, and joined field research to check usability.
 - **Following up on metrics.** For example, unresolved sales orders dropped from 100% to 3% after fixing product tagging and data structure, and over-limit orders from 40% to 17% after reworking the onboarding and transaction workflow.
 - **Explainable scoring.** When a score drives a decision, I prefer a formula that can be explained line by line.
