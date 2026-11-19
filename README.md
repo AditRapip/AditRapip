@@ -59,7 +59,7 @@ Built with an AI coding agent: I wrote the specs and tested the results, the age
 
 ## What I'm working on now
 
-- **Tulen**, a small product, systems and AI team (three of us) that helps Indonesian SMEs digitise their operations, such as stock, orders and manual records.
+- **[RekaInsta](https://rekainsta.com)**, a small product, systems and AI team (three of us) that helps Indonesian SMEs digitise their operations, such as stock, orders and manual records.
 - **A live-prototyping workflow** with my team, where a client's requirements become a clickable browser prototype during the meeting.
 - **Open to Product Manager roles** in fintech, govtech or B2B operations.
 
