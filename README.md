@@ -15,7 +15,7 @@
 
 I'm a Product Manager with 6+ years of taking products from zero to one: digital lending for fish farmers at **eFishery**, then province-scale school-admission platforms for a **government education agency in Indonesia**, where the success metric was fairness, not growth.
 
-I'm not an engineer and I don't pretend to be one. What I do well is **decide the rules** (who gets a loan, who gets a school seat, what makes a score fair), write them down so engineers can build from them, and **check the result in the data myself** with SQL. Lately I also build working prototypes with an AI coding agent, so a conversation turns into something clickable in days instead of months.
+I'm not an engineer and I don't pretend to be one. What I do well is **decide the rules** (who gets a loan, who gets a school seat, what makes a score fair), write them down so engineers can build from them, and then **stay until the product actually works**: rolling it out to the people who use it, watching how they really use it, and checking the metrics myself with SQL until the numbers move. Lately I also build working prototypes with an AI coding agent, so a conversation turns into something clickable in days instead of months.
 
 ## What I've shipped
 
@@ -66,6 +66,8 @@ I write the spec and the rules, an AI coding agent writes the code, and I test i
 ## How I work
 
 - **Decide before building.** Every build starts with written rules and a log of the options I rejected, so nobody has to guess later why it works the way it does.
+- **Shipping is half the job.** A release only counts once people use it well. I rolled out new tools to credit analysts, branch coordinators and finance teams, set up the SOPs that kept them running, and joined field research to check whether the tools were actually usable.
+- **Measure, find the cause, fix it.** Unresolved sales orders went from 100% to 3% after I fixed product tagging and the data structure behind them. Over-limit orders in shrimp financing fell from 40% to 17% after reworking the onboarding and transaction workflow.
 - **A formula over an opinion.** If a score decides something important, it should be explainable line by line.
 - **Check the data, not the dashboard.** On high-stakes public data I ran proactive integrity audits straight from the database.
 - **Small teams, real constraints.** I was the only PM assigned to eFishery India, digitising manual processes with very little engineering and design capacity. SOPs and boring tools are often the right answer.
